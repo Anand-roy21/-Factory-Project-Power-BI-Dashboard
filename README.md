@@ -51,5 +51,5 @@ Is Complete Month	Helper measure used to exclude the current incomplete month fr
 	• All monetary values are displayed in ₹ (INR).
 	• The date range in the data spans from January 2024 through early February 2025.
 	• The trend chart on the Overview page automatically excludes the current incomplete month for accurate comparisons.
-![Uploading image.png…]()
+
 
