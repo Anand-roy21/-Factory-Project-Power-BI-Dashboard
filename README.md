@@ -36,10 +36,6 @@ Profit % Margin	Profit as a percentage of Revenue
 Avg Order Profit	Average profit per order
 Is Complete Month	Helper measure used to exclude the current incomplete month from trend charts
 
-📁 File Structure
-Factory_Project.pbix          ← Main Power BI report file
-
-	Power BI .pbix files are self-contained. No external data source setup is required if the data is already embedded. If the report pulls from an external source, update the data source connection under File → Settings → Data source settings in Power BI Desktop.
 
 🛠️ Requirements
 	• Power BI Desktop — Download here (free)
